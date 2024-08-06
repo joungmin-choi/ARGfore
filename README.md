@@ -6,7 +6,8 @@ Here we propose ARGfore, a multivariate time-series forecasting model for the pr
 
 ## Requirements
 * Python (>= 3.6)
-* Tensorflow (>= v1.6.0)
+* Tensorflow (>= v1.8.0)
+* Other python packages : numpy, pandas, os, sys, scikit-learn
 
 ## Usage
 Clone the repository or download source code files.
